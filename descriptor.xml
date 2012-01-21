@@ -1,0 +1,17 @@
+<app>
+  <id>Boxee_CafeCafeDemo</id>
+  <name>Cafe Cafe Demo</name>
+  <version>1.0</version>
+  <description>Boxee CafeCafe Demo App</description>
+  <thumb>http://img854.imageshack.us/img854/5508/thumbnaili.png</thumb>
+  <repository>http://dir.boxee.tv/apps</repository>
+  <media>video</media>
+  <copyright>ANM</copyright>
+  <email>anm@gmail.com</email>
+  <type>skin</type>
+  <startWindow>14000</startWindow>
+  <platform>all</platform>
+  <minversion>0.9.21</minversion>
+  <test-app>true</test-app>
+</app>
+
